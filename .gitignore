@@ -1,5 +1,7 @@
 __pycache__/
 *.py[cod]
 *.pdf
+*_pages/
+Science8_1/
 .playwright-mcp/
 backup/
