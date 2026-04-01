@@ -5,3 +5,5 @@ __pycache__/
 Science8_1/
 .playwright-mcp/
 backup/
+.env
+credentials.json
