@@ -4,6 +4,12 @@ __pycache__/
 *_pages/
 Science8_1/
 .playwright-mcp/
+.browser_profile*/
 backup/
 .env
-credentials.json
+debug_*.png
+Math_*/
+Science_*/
+SCIENCE_*/
+Good_SCIENCE_*/
+Real_Math_*/
